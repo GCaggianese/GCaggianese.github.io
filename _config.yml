@@ -90,3 +90,4 @@ exclude:
     LICENSE,
     Rakefile,
   ]
+future: true

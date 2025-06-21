@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reverse Landing"
-date:   2025-06-20 11:54:03 +0300
+date:   2025-06-20 11:54:03
 categories: Nim
 ---
 
