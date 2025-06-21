@@ -7,7 +7,7 @@ categories: Nim
 
 # Reverse Landing
 
-![1dd70723204f2c58.jpg](<./attachments/6dbec8b1259e7471-1dd70723204f2c58.jpg>)
+![crown]({{ site.url }}/attachments/6dbec8b1259e7471-1dd70723204f2c58.jpg)
 
 An old crown 👑
 
