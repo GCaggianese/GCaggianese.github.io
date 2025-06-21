@@ -7,7 +7,8 @@ categories: Nim
 
 # Reverse Landing
 
-![crown]({{ site.url }}/attachments/6dbec8b1259e7471-1dd70723204f2c58.jpg)
+![crown](/assets/attachments/6dbec8b1259e7471-1dd70723204f2c58.jpg)
+
 
 An old crown 👑
 
@@ -54,9 +55,10 @@ An old crown 👑
 
 ## 📸 Screenshots
 
-| ![image.png](<./attachments/44350463faa455cc-image.png>)               | ![60bb4836462d907a](<./attachments/60bb4836462d907a-60bb4836462d907a>) | ![01e83de48095c609](<./attachments/01e83de48095c609-01e83de48095c609>) |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Dashboard                                                                          | Live Stats                                                                         | User Profile                                                                       |
+| ![Dashboard]({{ '/assets/attachments/44350463faa455cc-image.png' | absolute_url }}) | ![Live Stats]({{ '/assets/attachments/60bb4836462d907a-60bb4836462d907a' | absolute_url }}) | ![User Profile]({{ '/assets/attachments/01e83de48095c609-01e83de48095c609' | absolute_url }}) |
+|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| **Dashboard**                                                                       | **Live Stats**                                                                             | **User Profile**                                                                             |
+
 
 ---
 
