@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "Reverse Landing"
-created_at: 20-06-2025 11:54 PM
-updated_at: 21-06-2025 12:21 AM
-tags: 
+date:   2025-06-20 11:54:03 +0300
+categories: Nim
 ---
 
 # Reverse Landing
