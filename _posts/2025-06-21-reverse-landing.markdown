@@ -25,7 +25,7 @@ An old crown 👑
 
 - [🌐 Visit the App](<https://yourapp.example.com>)
 
-- [📚 Documentation](<https://monogr.ph/683cc40614783a5314ce7aad> "📚 Documentation")
+- [📚 Documentation](<https://monogr.ph/6816a8843ceeec461f53b89a> "📚 Documentation")
 
 - [🐙 GitHub Repo](<https://github.com/youruser/project-nim>)
 
