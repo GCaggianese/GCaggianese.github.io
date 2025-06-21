@@ -1,5 +1,4 @@
 ![banner](./assets/img/banner.png)
-
 # 康青旭 — Personal Website
 
 This site serves as a personal portfolio and my public second brain. You'll see:
