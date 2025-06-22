@@ -18,7 +18,7 @@ The content is organized following the PARA method (Projects, Areas, Resources, 
 ## Built With
 
 - 🌙 [Moonrise Jekyll Theme](https://github.com/TolgaTatli/Moonrise)  
-  Licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+  Licensed under the [MIT License](https://github.com/GCaggianese/GCaggianese.github.io/blob/master/LICENSE).  
   Created by [@TolgaTatli](https://github.com/TolgaTatli) — full credit for the theme.
 
 - 🧠 Powered by GitHub Pages, Jekyll, written in Notesnook.
