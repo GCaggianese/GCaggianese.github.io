@@ -1,38 +1,39 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2024-02-11
+title: 康青旭 — Personal Website
+tags: [about]
+date: 2025-06-21
 comments: false
 ---
 
-<center><a href="http://TolgaTatli.github.io/Moonrise"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+![banner]({{ '/assets/img/banner.png' | absolute_url }})
+# 康青旭 — Personal Website
 
-## Features
+This site serves as a personal portfolio and my public second brain. You'll see:
 
--   Minimal, you can focus on your content
--   Responsive
--   Disqus integration
--   Syntax highlighting
--   Optional post image
--   Social icons
--   Page for sharing projects
--   Optional background image
--   Simple navigation menu
--   MathJax support
+- ✍️ **Posts** – Articles, writeups, and academic notes (currently in English).
+- 🛠️ **Projects** – Real projects, research and personal work in AI, ML, Systems, Languages, and Cognition.
+- 🧪 **Weekly Log** – Raw, unedited personal journals, published through Notesnook monographs.
+- 🧵 **Drafts** – Early ideas and or unfinished content, also extra notes for projects.
 
-## Preview
+For now, most content will be published in English with links to my **original source material in Spanish or Chinese** (or whichever language I wrote it in that moment).  
+Multilingual support will be added soon via an LLM-powered translation layer powered by a custom Nim tool.
 
-{% capture images %}
-https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+The content is organized following the PARA method (Projects, Areas, Resources, Archives) beign my effort to build a meaningful and multilingual knowledge base.
 
-See a [live version of Moon](http://TolgaTatli.github.io/Moonrise) hosted on GitHub.
+---
 
-## Getting Started
+## Built With
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+- 🌙 [Moonrise Jekyll Theme](https://github.com/TolgaTatli/Moonrise)  
+  Licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+  Created by [@TolgaTatli](https://github.com/TolgaTatli) — full credit for the theme.
 
-[Install Moon](https://github.com/TolgaTatli/Moonrise){: .btn}
+- 🧠 Powered by GitHub Pages, Jekyll, written in Notesnook.
+
+---
+
+## License
+
+All theme-related assets follow the original MIT license from Moonrise.  
+All personal content on this website belongs to me, 康青旭, unless otherwise noted.    
