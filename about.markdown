@@ -4,7 +4,7 @@ title: 康青旭 — Personal Website
 tags: [about]
 date: 2025-06-21
 comments: false
-feature: https://raw.githubusercontent.com/GCaggianese/GCaggianese.github.io/refs/heads/master/assets/img/file_00000000895461f7a229f1db2966abfe%20(2).png
+feature: {{ '/assets/img/kai.png' | absolute_url }}
 ---
 
 ![banner]({{ '/assets/img/banner.png' | absolute_url }})
