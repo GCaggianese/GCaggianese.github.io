@@ -4,7 +4,7 @@ title: 康青旭 — Personal Website
 tags: [about]
 date: 2025-06-21
 comments: false
-feature: {{ '/assets/img/kai.png' | absolute_url }}
+feature: ./assets/img/kai.png
 ---
 
 ![banner]({{ '/assets/img/banner.png' | absolute_url }})
