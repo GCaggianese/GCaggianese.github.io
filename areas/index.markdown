@@ -1,7 +1,7 @@
 ---
-layout: project
-title: All Projects
-excerpt: "A List of Projects"
+layout: area
+title: All Areas
+excerpt: "A List of Areas"
 comments: false
 ---
 
