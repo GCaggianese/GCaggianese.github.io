@@ -2,11 +2,6 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
-<!--[if gt IE 8]><!-->
-<html class="no-js"><!--<![endif]-->
 
 <head>
     {% include head.html %}
@@ -47,11 +42,26 @@ layout: compress
                 <h3 class="title">
                     {% include social-links.html %}
                 </h3>
-                <a href="{{ site.url }}/about" style="font-size: 0.7em; font-weight:300; color: LightSteelBlue;">About</a>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin-top: 1rem;">
+    <div style="text-align: left;">
+        <a href="{{ site.url }}/about" style="font-size: 0.7em; font-weight:300; color: LightSteelBlue;">About</a>
+    </div>
+
+    <div class="language-switcher" style="text-align: right;">
+        <a href="{{ site.url }}{{ page.url }}" title="English" class="btn zoombtn lang-btn">
+            <img src="{{ site.url }}/assets/img/flags/uk.png" alt="English" style="width:24px;height:auto;">
+        </a>
+        <a href="{{ site.url }}/es{{ page.url }}" title="Español" class="btn zoombtn lang-btn">
+            <img src="{{ site.url }}/assets/img/flags/uy.png" alt="Español" style="width:24px;height:auto;">
+        </a>
+        <a href="{{ site.url }}/zh_TW{{ page.url }}" title="中文" class="btn zoombtn lang-btn">
+            <img src="{{ site.url }}/assets/img/flags/tw.png" alt="中文" style="width:24px;height:auto;">
+        </a>
+    </div>
+</div>
             </div>
         </div>
     </header>
     {% include scripts.html %}
 </body>
-
 </html>

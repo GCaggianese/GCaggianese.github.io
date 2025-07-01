@@ -17,7 +17,7 @@
     padding: 6.46px;
     margin: 6.46px;
     border-radius: 100%;
-    
+
     border: 0.1px solid rgba(0, 0, 0, 0.208);
     opacity: 0.88;
     @extend %btnextend;
@@ -84,6 +84,19 @@
 .post-list {
     .btn {
         @include font-rem(14);
+    }
+}
+.lang-btn {
+    background: transparent;
+    border: none;
+    padding: 4px 8px;
+    border-radius: 8px;
+    margin-left: 4px;
+    transition: background 0.2s;
+    &:hover {
+        background: #e0e7ff;
+        box-shadow: 0 1px 8px 0 #bacaff77;
+        cursor: pointer;
     }
 }
 
