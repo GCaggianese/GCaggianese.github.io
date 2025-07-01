@@ -1,5 +1,7 @@
 ---
 layout: home
-title: Welcome
+title: Home
+comments: false
+lang: en
 permalink: /
 ---

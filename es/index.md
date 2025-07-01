@@ -1,5 +1,7 @@
 ---
 layout: home
-title: Home
+title: CASA
 comments: false
+lang: es
+permalink: /es
 ---
