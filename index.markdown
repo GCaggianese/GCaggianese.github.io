@@ -1,7 +1,5 @@
 ---
-layout: home
-title: Home
-comments: false
+redirect_to: https://gcaggianese.neocities.org/
 lang: en
 permalink: /
 ---
