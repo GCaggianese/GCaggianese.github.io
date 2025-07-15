@@ -1,6 +1,6 @@
 # Important!
 This repository and website are no longer updated.
-All content has moved to [gcaggianese.neocities.org](https://gcaggianese.neocities.org/).
+**All content has moved to [Codeberg](https://codeberg.org/GCaggianese/gcaggianese-neocities-webpage).**
 
 This GitHub repo now serves only as a redirect and archive.
 
