@@ -1,4 +1,5 @@
 ---
+redirect_to: https://gcaggianese.neocities.org/
 layout: post
 project: false
 area: true

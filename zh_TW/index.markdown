@@ -1,4 +1,5 @@
 ---
+redirect_to: https://gcaggianese.neocities.org/
 layout: home
 title: 首頁
 comments: false

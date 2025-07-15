@@ -1,4 +1,5 @@
 ---
+redirect_to: https://gcaggianese.neocities.org/
 layout: post
 title:  "歡迎來到中文！"
 date:   2024-02-11 00:49:03 +0300

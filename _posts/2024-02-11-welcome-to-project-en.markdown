@@ -1,4 +1,5 @@
 ---
+redirect_to: https://gcaggianese.neocities.org/
 layout: post
 project: true
 title:  "Welcome to a Project!"

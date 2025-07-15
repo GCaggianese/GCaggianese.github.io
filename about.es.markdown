@@ -1,4 +1,5 @@
 ---
+redirect_to: https://gcaggianese.neocities.org/
 layout: page
 title: 康青旭 — Sitio Personal
 tags: [about]
