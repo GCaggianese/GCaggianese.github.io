@@ -1,3 +1,11 @@
+# Important!
+This repository and website are no longer updated.
+All content has moved to [gcaggianese.neocities.org](https://gcaggianese.neocities.org/).
+
+This GitHub repo now serves only as a redirect and archive.
+
+---
+
 ![banner](./assets/img/banner.png)
 # 康青旭 — Personal Website
 
@@ -18,7 +26,7 @@ The content is organized following the PARA method (Projects, Areas, Resources, 
 ## Built With
 
 - 🌙 [Moonrise Jekyll Theme](https://github.com/TolgaTatli/Moonrise)  
-  Licensed under the [MIT License](https://github.com/GCaggianese/GCaggianese.github.io/blob/master/LICENSE).  
+  Licensed under the [MIT License](https://codeberg.org/GCaggianese/gcaggianese-neocities-webpage/src/branch/main/LICENSE).  
   Created by [@TolgaTatli](https://github.com/TolgaTatli) — full credit for the theme.
 
 - 🧠 Powered by GitHub Pages, Jekyll, written in Notesnook.
